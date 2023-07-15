@@ -1,6 +1,6 @@
 fastapi[all]
 openai
 python-dotenv
-pydantic
+pydantic==1.*
 langchain
 bs4
