@@ -2,5 +2,5 @@ fastapi[all]
 openai
 python-dotenv
 pydantic==1.8.2
-langchain
+langchain @ git+https://github.com/hwchase17/langchain.git@master
 bs4
